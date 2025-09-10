@@ -1,5 +1,7 @@
 # Dashboard de Avaliação de Riscos
 
+# https://saroi-cgu.streamlit.app/
+
 Este projeto implementa um Dashboard interativo para avaliação e gestão de riscos, com foco na metodologia SAROI (Sistema de Análise de Riscos em Operações Imobiliárias). A ferramenta permite aos usuários cadastrar, editar, analisar e comparar riscos, além de gerar relatórios detalhados e manter um log de atividades.
 
 ## Metodologia
